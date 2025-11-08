@@ -1,22 +1,10 @@
 ### Buenas soy [Alex!](https://github.com/Alex-Vidotto)👋
-Estudiante en tecnicatura de Software, con mucho interes por saber como funcionan lo que me rodea y apasionado por los RPG 🎮 y por Boca Jr💙💛💙.<br>
+Estudiante en tecnicatura de Software, con mucho interes por saber como funciona lo que me rodea y apasionado por los RPG 🎮 y por Boca Jr💙💛💙.<br>
 ## 📫 Donde contactarme: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://img.shields.io/badge/-black?logo=github
 ) GitHub](https://github.com/alexvidottodev) [![Twitter](https://img.shields.io/badge/-black?logo=x
 )Twitter](https://x.com/Alex_vidotto17)
-<!--
-**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
 - 🌱 Estoy aprendiendo Python y el framework laravel
 - 👯 Aca agregare si colaboro en un open source
 
