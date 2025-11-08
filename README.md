@@ -1,5 +1,5 @@
 ### Buenas soy [Alex!](https://github.com/alexvidottodev)👋
-Estudiante en tecnicatura de Software, entusiasta por el desarrollo de la AI y por boca💙💛💙.<br>
+Estudiante en tecnicatura de Software, con mucho interes por saber como funcionan lo que me rodea y apasionado por los RPG 🎮 y por boca💙💛💙.<br>
 ## 📫 Donde contactarme: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://img.shields.io/badge/-black?logo=github
 ) GitHub](https://github.com/alexvidottodev) [![Twitter](https://img.shields.io/badge/-black?logo=x
