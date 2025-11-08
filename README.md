@@ -1,4 +1,4 @@
-### Buenas soy [Alex!](https://github.com/alexvidottodev)👋
+### Buenas soy [Alex!](https://github.com/Alex-Vidotto)👋
 Estudiante en tecnicatura de Software, con mucho interes por saber como funcionan lo que me rodea y apasionado por los RPG 🎮 y por Boca Jr💙💛💙.<br>
 ## 📫 Donde contactarme: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alex-emanuel-vidotto-935a39381) [![GitHub](https://img.shields.io/badge/-black?logo=github
