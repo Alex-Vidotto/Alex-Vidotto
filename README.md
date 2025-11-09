@@ -11,7 +11,7 @@ Estudiante en tecnicatura de Software, con mucho interes por saber como funciona
 Estadísticas de GitHub 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexvidottodev&show_icons=true&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-Vidotto&show_icons=true&theme=dark) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvidottodev&layout=compact&theme=dark&hide=html,css)
 
