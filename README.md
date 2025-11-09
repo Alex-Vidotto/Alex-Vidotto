@@ -13,6 +13,6 @@ Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex-Vidotto&show_icons=true&theme=dark) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvidottodev&layout=compact&theme=dark&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Vidotto&layout=compact&theme=dark&hide=html,css)
 
         
